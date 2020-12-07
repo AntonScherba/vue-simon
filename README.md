@@ -1,5 +1,5 @@
 # vue-simon
-
+view demo - https://antonscherba.github.io/vue-simon/
 ## Project setup
 ```
 npm install
